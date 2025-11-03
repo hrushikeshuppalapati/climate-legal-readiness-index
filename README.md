@@ -51,7 +51,7 @@ Complement quantitative data with a contextual understanding of national climate
 1. Extract & translate policy PDFs.  
 2. Chunk and embed texts with `all-MiniLM-L6-v2`.  
 3. Store embeddings in ChromaDB.  
-4. Use Gemini 1.5 Flash to answer questions using retrieved context.  
+4. Use Gemini 2.5 Flash to answer questions using retrieved context.  
 5. Display answers with transparent citations in Streamlit.
 
 ---
@@ -60,8 +60,8 @@ Complement quantitative data with a contextual understanding of national climate
 
 | Tab | Function |
 |-----|-----------|
-| 📊 CLRI Map | Global readiness visualization (Track 1) |
-| 💬 Policy Q&A | Gemini-powered retrieval and summarization (Track 2) |
+| CLRI Map | Global readiness visualization |
+| Policy Q&A | Gemini-powered retrieval and summarization |
 
 ---
 
