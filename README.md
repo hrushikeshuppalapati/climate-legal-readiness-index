@@ -79,4 +79,25 @@ The **Climate Legal Readiness Index (CLRI)** combines data science and AI to mea
 It bridges quantitative rigor with qualitative legal interpretation, a scalable model for climate policy analytics.
 
 ---
+---
+
+## Demonstration Snapshots
+
+###  CLRI Global Map (Track 1)
+This map visualizes the Climate Legal Readiness Index (CLRI_PCA_z), where lighter colors indicate higher readiness and stronger governance capacity.
+
+<p align="center">
+  <img src="app/clrimap.png" alt="CLRI Global Map" width="800">
+</p>
+
+###  Gemini RAG Policy Q&A (Track 2)
+The Gemini-based RAG system retrieves text from national climate laws and adaptation plans, then answers contextually.  
+Here, it summarizes agricultural adaptation strategies across indexed countries.
+
+<p align="center">
+  <img src="app/RAG.png" alt="Gemini RAG Q&A Screenshot" width="800">
+</p>
+
+---
+
 """
