@@ -1,0 +1,21 @@
+streamlit
+pandas
+plotly
+country_converter
+
+RAG & AI
+
+chromadb
+sentence-transformers
+google-generativeai
+
+Notebook-only libraries (for data loading/cleaning)
+
+numpy
+fuzzywuzzy
+python-Levenshtein
+pdfplumber
+PyPDF2
+langdetect
+transformers
+torch
