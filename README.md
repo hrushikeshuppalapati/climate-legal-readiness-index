@@ -64,17 +64,6 @@ Complement quantitative data with a contextual understanding of national climate
 | Policy Q&A | Gemini-powered retrieval and summarization |
 
 ---
-
-## Deployment Instructions
-
-1. Clone the repository  
-2. Install dependencies (`pip install -r requirements.txt`)  
-3. Add Gemini API key in `.streamlit/secrets.toml`  
-4. Run locally with `streamlit run app.py`  
-5. Or deploy to [Streamlit Cloud](https://share.streamlit.io)
-
----
-
 ## Results Summary
 
 - PCA explained ~82% variance.  
