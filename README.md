@@ -29,7 +29,7 @@
 ## AI-Powered Legal Document Analysis (Gemini RAG)
 
 ### Purpose
-Complement quantitative data with contextual understanding of national climate laws using AI.
+Complement quantitative data with a contextual understanding of national climate laws using AI.
 
 ### Countries Included (6 representative regions)
 
@@ -67,7 +67,7 @@ Complement quantitative data with contextual understanding of national climate l
 
 ## Deployment Instructions
 
-1. Clone repository  
+1. Clone the repository  
 2. Install dependencies (`pip install -r requirements.txt`)  
 3. Add Gemini API key in `.streamlit/secrets.toml`  
 4. Run locally with `streamlit run app.py`  
@@ -78,8 +78,8 @@ Complement quantitative data with contextual understanding of national climate l
 ## Results Summary
 
 - PCA explained ~82% variance.  
-- CLRI rankings consistent across methods.  
-- AI Q&A accurate and context-based.  
+- CLRI rankings are consistent across methods.  
+- AI Q&A is accurate and context-based.  
 - Integration works seamlessly across both tracks.
 
 ---
@@ -87,17 +87,7 @@ Complement quantitative data with contextual understanding of national climate l
 ## Conclusion
 
 The **Climate Legal Readiness Index (CLRI)** combines data science and AI to measure how well nations' legal and governance frameworks are prepared for climate action.  
-It bridges quantitative rigor with qualitative legal interpretation — a scalable model for climate policy analytics.
+It bridges quantitative rigor with qualitative legal interpretation, a scalable model for climate policy analytics.
 
 ---
-
-© 2025 — Hrushikesh Uppalapati & Chekitha Swayampu  
-Graduate Data Science Capstone Project  
-George Washington University (MS Data Science)
 """
-
-# Write README.md file
-Path("README.md").write_text(readme_text)
-
-"README.md file generated successfully."
-
