@@ -1,21 +1,13 @@
-streamlit
+streamlit==1.39.0
 pandas
-plotly
-country_converter
-
-RAG & AI
-
-chromadb
-sentence-transformers
-google-generativeai
-
-Notebook-only libraries (for data loading/cleaning)
-
 numpy
-fuzzywuzzy
-python-Levenshtein
+plotly
+matplotlib
+scikit-learn
+country_converter
+tqdm
+sentence-transformers==2.7.0
+chromadb==0.5.4
 pdfplumber
 PyPDF2
-langdetect
-transformers
-torch
+google-generativeai==0.5.2
